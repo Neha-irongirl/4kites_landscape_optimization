@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+torch
+numpy
+matplotlib
+scipy
+tqdm
+=======
+torch
+numpy
+matplotlib
+scipy
+tqdm
+>>>>>>> 2317bf74fd6221bdf8030d4594b1dc31372e33af
+torchvision
